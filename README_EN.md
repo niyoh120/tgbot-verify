@@ -379,7 +379,7 @@ This project is open sourced under **MIT License**, see [LICENSE](LICENSE) file 
 
 - **GitHub**: [Submit Issue](https://github.com/PastKing/tgbot-verify/issues)
 - **Telegram**: [@pk_oa](https://t.me/pk_oa)
-- **Group**: [Let's Communicate](https://t.me/pastking_server)
+- **Group**: [Let's Communicate](https://t.me/+oHxBjM0hiaI4YjM9)
 
 ---
 
